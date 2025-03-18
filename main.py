@@ -14,3 +14,7 @@ for char in text: #iterate through a string
     else:
         character_counts[char] = 1 
 print(character_counts)
+
+
+
+
